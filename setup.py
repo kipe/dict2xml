@@ -8,5 +8,5 @@ setup(
     author=u'Lucas Inojosa',
     author_email='lucas.inojosa@gmail.com',
     url='http://github.org/lucasicf/dict2xml',
-    packages=[],
+    packages=['dict2xml'],
 )
